@@ -8,6 +8,8 @@
 - [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
 - [Data structures: Binary Tree](https://www.youtube.com/watch?v=H5JubkIy_p8)
 
+---
+
 ## More Info
 
 ### Data structures
@@ -61,4 +63,44 @@ typedef struct binary_tree_s heap_t;
 To match the examples in the tasks, you are given [this function](https://github.com/holbertonschool/0x1C.c)
 This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
 
+---
+
 ## Tasks
+
+### 0. New node
+
+### 1. Insert left
+
+### 2. Insert right
+
+### 3. Delete
+
+### 4. Is leaf
+
+### 5. Is root
+
+### 6. Pre-order traversal
+
+### 7. In-order traversal
+
+### 8. Post-order traversal
+
+### 9. Height
+
+### 10. Depth
+
+### 11. Size
+
+### 12. Leaves
+
+### 13. Nodes
+
+### 14. Balance factor
+
+### 15. Is full
+
+### 16. Is perfect
+
+### 17. Sibling
+
+### 18. Uncle
