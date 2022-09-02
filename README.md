@@ -1086,3 +1086,52 @@ Uncle of 54: 128
 Uncle of 12: (nil)
 alex@/tmp/binary_trees$
 ```
+
+---
+
+### 19. Lowest common ancestor
+
+### 20. Level-order traversal
+
+### 21. Is complete
+
+### 22. Rotate left
+
+### 23. Rotate right
+
+### 24. Is BST
+
+### 25. BST - Insert
+
+### 26. BST - Array to BST
+
+### 27. BST - Search
+
+### 28. BST - Remove
+
+### 29. Big O #BST
+
+### 30. Is AVL
+
+### 31. AVL - Insert
+
+### 32. AVL - Array to AVL
+
+### 33. AVL - Remove
+
+### 34. AVL - From sorted array
+
+### 35. Big O #AVL Tree
+
+### 36. Is Binary heap
+
+### 37. Heap - Insert
+
+### 38. Heap - Array to Binary Heap
+
+### 39. Heap - Extract
+
+### 40. Heap - Sort
+
+### 41. Big O #Binary Heap
+
